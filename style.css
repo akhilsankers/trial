@@ -99,7 +99,7 @@ header nav ul li a:hover {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 .col {
